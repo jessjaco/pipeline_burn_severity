@@ -1,0 +1,7 @@
+geopandas
+numpy
+pystac
+planetary_computer
+rioxarray
+xarray
+earthengine-api
